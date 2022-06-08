@@ -14,8 +14,10 @@
   <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ale-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" width="250px" height="212px" src="src/assets/to_readme/animated_avatar.gif">
 </div>
+  <p align="center">
+    <img width="250" height="212" src="src/assets/to_readme/animatedavatar.gif">
+  </p>
 
 ##
 
